@@ -1,7 +1,8 @@
-Objective
+OBJECTIVE:
+
 Developed a robust machine learning system to automate handwritten digit recognition (0–9) using the MNIST dataset, addressing real-world applications like check processing and postal automation. Achieved 97.05% accuracy in digit classification.
 
-Key Contributions
+KEY CONTRIBUTIONS:
 
 Data Pipeline: Engineered end-to-end data preprocessing:
 Extracted pixel data from MNIST files (IDX3/IDX1 formats) using C++.
