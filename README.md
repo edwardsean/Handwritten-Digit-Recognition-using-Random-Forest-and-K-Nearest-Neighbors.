@@ -13,10 +13,11 @@ K-Nearest Neighbors (KNN): Leveraged OpenCV’s KNearest for similarity-based cl
 Evaluation: Tested models on 10,000 unseen images, comparing predictions against ground-truth labels to measure accuracy.
 Technical Stack
 
-Languages: C++
+LANGUAGES: C++
 Tools: OpenCV (data handling, model training/prediction)
 Dataset: MNIST (60k training + 10k test images)
-Impact & Insights
+
+IMPACT & INSIGHTS
 
 Demonstrated the effectiveness of ensemble methods (Random Forest) and instance-based learning (KNN) for image classification.
 Highlighted preprocessing’s critical role in ML pipelines, including byte decoding and normalization.
